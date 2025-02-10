@@ -72,5 +72,5 @@ By analyzing attrition trends, we provided HR teams with data-driven insights to
 
 ## Contact Information
 For any inquiries or collaboration opportunities, feel free to reach out:
-- LinkedIn: [Isaiah Ikharona](#https://www.linkedin.com/in/isaiah-ikharona/)
+- LinkedIn: [[Isaiah Ikharona](https://www.linkedin.com/in/isaiah-ikharona/)](#)
 - Email: engr.isaiah665@gmail.com
