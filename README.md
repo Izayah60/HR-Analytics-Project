@@ -72,6 +72,5 @@ By analyzing attrition trends, we provided HR teams with data-driven insights to
 
 ## Contact Information
 For any inquiries or collaboration opportunities, feel free to reach out:
-- GitHub: [Your GitHub Profile](#)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: your.email@example.com
+- LinkedIn: [Isaiah Ikharona](#https://www.linkedin.com/in/isaiah-ikharona/)
+- Email: engr.isaiah665@gmail.com
