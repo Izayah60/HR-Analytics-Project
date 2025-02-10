@@ -1,19 +1,19 @@
 # HR Analytics: Employee Performance & Attrition Prediction
 
 ## Table of Contents
-- Project Overview
-- Business Problem
-- Dataset
-- Tools & Technologies
-- Methodology
-  - Data Collection & Cleaning
-  - SQL Analysis
-  - Excel Processing
-  - Power BI Visualization
-- Key Insights
-- Challenges & Learnings
-- Conclusion
-- Contact Information
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Dataset](#dataset)
+- [Tools & Technologies](#tools--technologies)
+- [Methodology](#methodology)
+  - [Data Collection & Cleaning](#data-collection--cleaning)
+  - [SQL Analysis](#sql-analysis)
+  - [Excel Processing](#excel-processing)
+  - [Power BI Visualization](#power-bi-visualization)
+- [Key Insights](#key-insights)
+- [Challenges & Learnings](#challenges--learnings)
+- [Conclusion](#conclusion)
+- [Contact Information](#contact-information)
 
 ## Project Overview
 Employee attrition is a significant challenge for HR departments, impacting productivity and operational costs. This project aims to analyze attrition patterns, identify key factors influencing employee turnover, and provide actionable insights using SQL, Excel, and Power BI.
