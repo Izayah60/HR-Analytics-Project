@@ -26,7 +26,7 @@ Employee attrition is a significant challenge for HR departments, impacting prod
 ## Dataset
 The dataset consists of employee records with features such as age, job role, department, salary, work-life balance, job satisfaction, and attrition status.
 
-Dataset Source: (Provide the link if applicable)
+Dataset Source: Kaggle
 
 ## Tools & Technologies
 - SQL: Data extraction, cleaning, and transformation
